@@ -75,9 +75,9 @@ showMoreDest = "/posts"
 # Article settings
 [article]
 # Whether to display article dates.
-showDate = true
+showDate = false
 # Whether to display modified dates of articles.
-showModDate = true
+showModDate = false
 # Whether to display reading time of articles.
 showReadingTime = true
 # Whether to display tags mentioned in the front matter.
@@ -91,14 +91,14 @@ showToC = true
 # Whether to open the Table of Contents when the page is loaded.
 openToC = false
 # Whether to include the comments partial after the article footer. (Check advanced configuration for more info)
-showComments = false
+showComments = true
 
 # List template settings
 [list]
 # Whether to group articles by year.
 groupByYear = false
 # Whether to show dates with article listings.
-showDate = true
+showDate = false
 
 # Taxonomy settings
 [taxonomy]
@@ -112,7 +112,7 @@ cardView = true
 # Whether to group articles by year.
 groupByYear = false
 # Whether to show dates with article listings.
-showDate = true
+showDate = false
 
 # Social links
 [[social]]
