@@ -33,21 +33,7 @@ showHeadingAnchors = true
 # Homepage settings
 [homepage]
 # [Optional] Displayed at the top of your homepage.
-headline = """
-### Explore. Engage. Enlighten. Welcome to the garden of thoughts.
-
----
-
-Welcome to विचारमञ्जरी (Vichāramañjarī)!
-
-Vichāramañjarī is a space for the contemplative mind. Here, we delve into the depths of thought, exploring the intricate tapestry of ideas that shape our understanding of the world.
-
-We believe in the power of shared reflection, where curiosity and creativity intertwine to illuminate the complexities of human experience. Our blog is a platform for those seeking to engage in thoughtful discourse, to grapple with challenging questions, and to discover new perspectives on familiar themes.
-
-We invite you to join us on this journey of intellectual exploration. Engage with our content through thoughtful comments and discussions, and contribute your own insights to the collective tapestry of knowledge.
-
-Vichāramañjarī is a haven for those who seek to engage with the world through the lens of critical thought and profound contemplation.
-"""
+headline = "### Explore. Engage. Enlighten. Welcome to the garden of thoughts."
 # [Optional] Path to the profile image relative to assets/ folder. Minimum size: 200x200px.
 image = "imgs/pixlr-image-generator-65dcd8ee-0207-4409-9a93-0a2386c4de81.webp"
 # Image position.
@@ -67,9 +53,9 @@ showMoreDest = "/posts"
 # Article settings
 [article]
 # Whether to display article dates.
-showDate = false
+showDate = true
 # Whether to display modified dates of articles.
-showModDate = false
+showModDate = true
 # Whether to display reading time of articles.
 showReadingTime = true
 # Whether to display tags mentioned in the front matter.
@@ -104,7 +90,7 @@ cardView = true
 # Whether to group articles by year.
 groupByYear = false
 # Whether to show dates with article listings.
-showDate = false
+showDate = true
 
 # Social links
 [[social]]
@@ -114,7 +100,7 @@ url = "https://github.com/icaran/theblog"
 
 [[social]]
 name = "Email"
-icon = "mail"
+icon = "email"
 url = "mailto:usandourregrets@protonmail.com"
 
 # [[social]]

@@ -1,7 +1,7 @@
 ---
 author: "Divyanshu Kumar | Karan Pratap Shaw"
 title: "A Short Note on CGPA | AKA | How To Approach College in India"
-date: "2024"
+date: "2024-08-03"
 description: "A Balance between Skills and Scores"
 tags: [
     "college",
