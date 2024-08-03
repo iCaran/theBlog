@@ -1,6 +1,6 @@
-# theBlog
+# विचारमञ्जरी (Vichāramañjarī)
 
-Welcome to **theBlog**, a personal blog built using [Hugo](https://gohugo.io/). This blog covers various topics, including technology, personal experiences, and much more.
+Welcome to **विचारमञ्जरी (Vichāramañjarī)**, a personal blog built using [Hugo](https://gohugo.io/). This blog covers various topics, including technology, personal experiences, and much more.
 
 ## Table of Contents
 
