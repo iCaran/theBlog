@@ -20,7 +20,7 @@ Our blog is powered by Hugo, a static site generator known for its efficiency an
 A tech enthusiast with a passion for innovation and learning. Connect with Karan on [LinkedIn](https://www.linkedin.com/in/karanpratapshaw/).
 
 **Divyanshu Kumar**  
-An avid learner and tech aficionado, always exploring new frontiers in technology. Connect with Divyanshu on [LinkedIn](https://www.linkedin.com/in/divyanshu-kumar-7ab58a272/).
+An avid learner and tech aficionado, always exploring arcane knowledge. Connect with Divyanshu on [LinkedIn](https://www.linkedin.com/in/divyanshu-kumar-7ab58a272/).
 
 Join us on this journey as we delve into various subjects and share our perspectives. We welcome your thoughts, suggestions, and contributions to make this blog a vibrant community of like-minded individuals.
 
