@@ -7,6 +7,7 @@ tags: [
     "about us",
 ]
 draft: "false"
+showComments: false
 ---
 
 Welcome to **विचारमञ्जरी (Vichāramañjarī)**, a personal blog crafted by Karan Pratap Shaw and Divyanshu Kumar. This space is dedicated to exploring a myriad of topics, from the latest in technology to personal experiences and insights. Our aim is to provide valuable content that resonates with a diverse audience.
