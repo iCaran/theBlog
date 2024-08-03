@@ -30,6 +30,10 @@ buildDrafts = true
   filename = 'sitemap.xml'
   priority = 0.5
 
+[services]
+  [services.disqus]
+    shortname = 'vicharamanjari'
+
 # Google Analytics Configuration
 # [services]
 #   [services.googleAnalytics]
