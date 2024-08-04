@@ -9,6 +9,15 @@ tags: [
 draft: "false"
 ---
 
+{{< callout Sq_blank>}}
+## <u>TLDR - Summary</u>
+
+This post recounts my unusual train journey from Howrah to Bhubaneswar. It details an encounter with a peculiar co-passenger, a woman who seemed lost and was possibly a victim of human trafficking. This post describes the woman's interactions with the Train Ticket Examiner (TTE) and reflects on the broader issues of job migration and human trafficking in India.
+Conclusion
+
+The story concludes without a resolution, as I disembark at Bhubaneswar (BBS) and don't learn the fate of the woman or whether the TTE's suspicions were confirmed. The post and the story however, highlights the vulnerabilities of migrant workers and the systemic issues that facilitate human trafficking.
+{{< /callout >}}
+
 ---
 
 ## Background
