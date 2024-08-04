@@ -14,7 +14,7 @@ Welcome to **विचारमञ्जरी (Vichāramañjarī)**, a personal
 
 ## Introduction
 
-This repository contains the source code for **theBlog**, hosted at [icaran.github.io/theBlog](https://icaran.github.io/theBlog/). The blog is created using the Hugo static site generator, which allows for easy content management and fast performance.
+This repository contains the source code for **विचारमञ्जरी**, hosted on [Render](https://vicharamanjari.onrender.com/), [Netlify](https://vicharamanjari.netlify.app/) and [GitHub](https://icaran.github.io/theBlog/). The blog is created using the Hugo static site generator, which allows for easy content management and fast performance.
 
 ## Features
 
