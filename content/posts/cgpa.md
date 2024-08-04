@@ -4,7 +4,7 @@ title: "A Short Note on CGPA | AKA | How To Approach College in India"
 date: "2024-08-03"
 description: "A Balance between Skills and Scores"
 tags: [
-    "college",
+    "college", "India"
 ]
 draft: "false"
 ---

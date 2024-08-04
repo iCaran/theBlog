@@ -19,6 +19,30 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/india/</loc>
+    <lastmod>2024-08-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/indian-rail/</loc>
+    <lastmod>2024-08-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/modern-slavery/</loc>
+    <lastmod>2024-08-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/hwh-to-bbs/</loc>
+    <lastmod>2024-08-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-08-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>

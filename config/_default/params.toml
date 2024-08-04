@@ -76,7 +76,7 @@ showComments = true
 # Whether to group articles by year.
 groupByYear = false
 # Whether to show dates with article listings.
-showDate = false
+showDate = true
 
 # Taxonomy settings
 [taxonomy]
