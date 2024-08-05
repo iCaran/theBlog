@@ -103,7 +103,7 @@ name = "Email"
 icon = "email"
 url = "mailto:usandourregrets@protonmail.com"
 
-# [[social]]
-# name = "Twitter / X"
-# icon = "x-twitter"
-# url = "https://x.com/sample"
+[[social]]
+name = "Twitter / X"
+icon = "x-twitter"
+url = "https://x.com/vicharamanjari"

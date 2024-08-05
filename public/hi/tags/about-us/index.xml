@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Us on विचारमञ्जरी</title>
+    <link>http://localhost:1313/hi/tags/about-us/</link>
+    <description>Recent content in About Us on विचारमञ्जरी</description>
+    <generator>Hugo</generator>
+    <language>hi-IN</language>
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hi/tags/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About विचारमञ्जरी</title>
+      <link>http://localhost:1313/hi/about/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hi/about/</guid>
+      <description>Welcome to विचारमञ्जरी (Vichāramañjarī), a personal blog crafted by Karan Pratap Shaw and Divyanshu Kumar. This space is dedicated to exploring a myriad of topics, from the latest in technology to personal experiences and insights. Our aim is to provide valuable content that resonates with a diverse audience.&#xA;Our blog is powered by Hugo, a static site generator known for its efficiency and speed. We believe in the power of open-source, and our site is a testament to this philosophy, being built with a responsive design, easy content management, and customizable themes.</description>
+    </item>
+  </channel>
+</rss>
