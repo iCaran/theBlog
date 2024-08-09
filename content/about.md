@@ -17,7 +17,7 @@ Our blog is powered by Hugo, a static site generator known for its efficiency an
 ## Authors
 
 **Karan Pratap Shaw**  
-A tech enthusiast with a passion for innovation and learning. [Find more about Karan](https://astrofolio-ruby.vercel.app/).
+A tech enthusiast with a passion for innovation and learning. [Find more about Karan](http://bytesandmusings.surge.sh/).
 
 **Divyanshu Kumar**  
 An avid learner and tech aficionado, always exploring arcane knowledge. Connect with Divyanshu on [LinkedIn](https://www.linkedin.com/in/divyanshu-kumar-7ab58a272/).
