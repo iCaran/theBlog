@@ -6,8 +6,15 @@
     <description>Recent content in Posts on विचारमञ्जरी (Vichāramañjarī)</description>
     <generator>Hugo -- 0.133.0</generator>
     <language>en-in</language>
-    <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 00:00:01 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Footnotes | Abstractions</title>
+      <link>http://localhost:1313/posts/abstractions_footnote/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:01 +0000</pubDate>
+      <guid>http://localhost:1313/posts/abstractions_footnote/</guid>
+      <description>'Science' is the new Religion</description>
+    </item>
     <item>
       <title>Abstractions | What is Faith?</title>
       <link>http://localhost:1313/posts/abstractions/</link>

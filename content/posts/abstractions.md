@@ -4,7 +4,7 @@ title: "Abstractions | What is Faith?"
 date: "2024-08-23"
 description: "What is a Religion ***exactly***"
 tags: [
-    "college", "India"
+    "Religion"
 ]
 draft: "false"
 ---
