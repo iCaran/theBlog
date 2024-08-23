@@ -111,3 +111,8 @@ url = "mailto:usandourregrets@protonmail.com"
 name = "Twitter / X"
 icon = "x-twitter"
 url = "https://x.com/vicharamanjari"
+
+[[social]]
+name = "RSS"
+icon = "rss"
+url = "https://vicharamanjari.onrender.com/index.xml"
