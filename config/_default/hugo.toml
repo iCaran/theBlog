@@ -34,3 +34,6 @@ buildDrafts = true
 # [services]
 #   [services.googleAnalytics]
 #     ID = 'G-MEASUREMENT_ID'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

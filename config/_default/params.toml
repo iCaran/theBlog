@@ -77,6 +77,8 @@ showComments = true
 groupByYear = false
 # Whether to show dates with article listings.
 showDate = true
+# Whether to display RSS link
+showRSS = true
 
 # Taxonomy settings
 [taxonomy]
@@ -91,6 +93,8 @@ cardView = true
 groupByYear = false
 # Whether to show dates with article listings.
 showDate = true
+# Whether to display RSS link
+showRSS = true
 
 # Social links
 [[social]]

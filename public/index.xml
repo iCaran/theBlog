@@ -1,33 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>विचारमञ्जरी (Vichāramañjarī)</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on विचारमञ्जरी (Vichāramañjarī)</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.133.0</generator>
     <language>en-in</language>
-    <lastBuildDate>Sun, 04 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Abstractions | What is Faith?</title>
+      <link>http://localhost:1313/posts/abstractions/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/abstractions/</guid>
+      <description>What is a Religion ***exactly***</description>
+    </item>
     <item>
       <title>One Peculiar Train Experience | The Job Human Trafficking Racket in India</title>
       <link>http://localhost:1313/posts/hwh-to-bbs/</link>
-      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/hwh-to-bbs/</guid>
-      <description>&lt;?xml version=&#34;1.0&#34;?&gt; TLDR - Summary This post recounts my unusual train journey from Howrah to Bhubaneswar. It details an encounter with a peculiar co-passenger, a woman who seemed lost and was possibly a victim of human trafficking. This post describes the woman&amp;rsquo;s interactions with the Train Ticket Examiner (TTE) and reflects on the broader issues of job migration and human trafficking in India. Conclusion&#xA;The story concludes without a resolution, as I disembark at Bhubaneswar (BBS) and don&amp;rsquo;t learn the fate of the woman or whether the TTE&amp;rsquo;s suspicions were confirmed.</description>
+      <description>The Informal Jobs Trafficking which happens Everyday, Unaccounted for in the Country.</description>
     </item>
     <item>
       <title>A Short Note on CGPA | AKA | How To Approach College in India</title>
       <link>http://localhost:1313/posts/cgpa/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/cgpa/</guid>
-      <description>&lt;?xml version=&#34;1.0&#34;?&gt; TLDR - Summary The post emphasizes that while CGPA alone cannot secure a job, it is crucial as the first step in the recruitment process. In many universities, recruiters use CGPA to shortlist candidates, often setting cut-offs higher than the officially stated minimums. Therefore, maintaining a high CGPA is important to advance in the selection process. Students should aim for a CGPA higher than the common average in their college to stay competitive.</description>
+      <description>A Balance between Skills and Scores</description>
     </item>
     <item>
       <title>About विचारमञ्जरी</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Welcome to विचारमञ्जरी (Vichāramañjarī), a personal blog crafted by Karan Pratap Shaw and Divyanshu Kumar. This space is dedicated to exploring a myriad of topics, from the latest in technology to personal experiences and insights. Our aim is to provide valuable content that resonates with a diverse audience.&#xA;Our blog is powered by Hugo, a static site generator known for its efficiency and speed. We believe in the power of open-source, and our site is a testament to this philosophy, being built with a responsive design, easy content management, and customizable themes.</description>
+      <description>Meet the Authors</description>
     </item>
   </channel>
 </rss>
