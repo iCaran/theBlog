@@ -10,7 +10,7 @@ draft: "false"
 ---
 
 {{< callout Sq_blank>}}
-## <u>TLDR - Summary</u>
+## <u>TLDR - Summary:</u>
 
 The post emphasizes that while CGPA alone cannot secure a job, it is crucial as the first step in the recruitment process. In many universities, recruiters use CGPA to shortlist candidates, often setting cut-offs higher than the officially stated minimums. Therefore, maintaining a high CGPA is important to advance in the selection process. Students should aim for a CGPA higher than the common average in their college to stay competitive.
 {{< /callout >}}

@@ -10,7 +10,7 @@ draft: "false"
 ---
 
 {{< callout Sq_blank>}}
-## <u>TLDR - Summary</u>
+## <u>TLDR - Summary:</u>
 Religion, particularly traditional ones, serves as an abstraction of complex philosophies, much like layers in computing and mathematics. While these abstractions simplify concepts for the masses, they also require faith. This faith connects individuals to the accumulated knowledge and societal structures developed over millennia. Rejecting faith often leads to a disconnection from these deep-rooted philosophies, which have historically guided and improved human societies.
 {{< /callout >}}
 

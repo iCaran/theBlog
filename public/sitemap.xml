@@ -13,6 +13,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/india/</loc>
+    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/politics/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -26,6 +32,12 @@
   </url>
   <url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/world/</loc>
     <lastmod>2024-10-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -45,12 +57,6 @@
   <url>
     <loc>http://localhost:1313/tags/religion/</loc>
     <lastmod>2024-08-23T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/tags/india/</loc>
-    <lastmod>2024-08-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

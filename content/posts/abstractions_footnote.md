@@ -9,7 +9,7 @@ tags: [
 draft: "false"
 ---
 
-## <u>Similarities in complex systems</u>
+## <u>Similarities in complex systems:</u>
 
 Academic level mathematics is close to Religion in the sense that it is a post hoc analysis of a phenomenon, represented in laws and formulas. So the application of simple formulas become the (very) useful application of the science, just as customs when it comes to religions.
 One can easily see how denouncing the formulas, theories, axioms and laws entirely created by a Newton or an Einstein or the generations of great minds, without ever understanding the core concept at play, does more harm than good. Yet there is much support and debate over the denouncing of Faith and Religion without ever truly understanding them.
