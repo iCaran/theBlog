@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Education on विचारमञ्जरी (Vichāramañjarī)</title>
+    <link>http://localhost:1313/tags/education/</link>
+    <description>Recent content in Education on विचारमञ्जरी (Vichāramañjarī)</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en-in</language>
+    <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reforming Student Welfare in Indian Educational Institutions | A Call for Accountability, Transparency, and Direct Representation</title>
+      <link>http://localhost:1313/posts/education_regulation/</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/education_regulation/</guid>
+      <description>In just this year (before two whole months could elapse), extremely disturbing incidents—from the tragic suicide at KIIT University to the indignities faced by students at Carmel School, Dhanbad—have exposed deep flaws in the way student welfare is managed across our educational institutions.</description>
+    </item>
+  </channel>
+</rss>
