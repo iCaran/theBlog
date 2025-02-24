@@ -4,7 +4,7 @@ title: "Reforming Student Welfare in Indian Educational Institutions | A Call fo
 date: "2025-02-18"
 description: "In just this year (before two whole months could elapse), extremely disturbing incidents—from the tragic suicide at KIIT University to the indignities faced by students at Carmel School, Dhanbad—have exposed deep flaws in the way student welfare is managed across our educational institutions."
 tags: [
-    "Education", "India", "Nepal"
+    "Education", "India", "Nepal", "College", "School"
 ]
 draft: "false"
 ---
