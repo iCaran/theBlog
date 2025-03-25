@@ -6,8 +6,15 @@
     <description>Recent content in Posts on विचारमञ्जरी (Vichāramañjarī)</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-in</language>
-    <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grind | When Memorization Works Better Than Deep Understanding</title>
+      <link>http://localhost:1313/posts/grind/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/grind/</guid>
+      <description>The big question is: Is deep understanding always the best way to learn? For some types of learning, especially when dealing with large amounts of structured content, a different method might work better: memorization and practice.</description>
+    </item>
     <item>
       <title>Reforming Student Welfare in Indian Educational Institutions | A Call for Accountability, Transparency, and Direct Representation</title>
       <link>http://localhost:1313/posts/education_regulation/</link>
@@ -56,13 +63,6 @@
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/cgpa/</guid>
       <description>A Balance between Skills and Scores</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/grind/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/grind/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
