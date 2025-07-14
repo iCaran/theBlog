@@ -17,7 +17,7 @@ India's secular democracy is critiqued for suppressing Hindu interests and foste
 
 ## <u>The Mirage of Secular Democracy in India: A Case for a Dharmic Renaissance</u>
 
-India’s secular-democratic framework, enshrined in its Constitution since 1950, is often celebrated as a triumph of unity in diversity. Yet, beneath this veneer lies a growing critique: that the system, far from being neutral, systematically suppresses Hindu interests to sustain a fragile political equilibrium. Critics argue that this model—imported from the West and hastily adapted to India’s pluralistic society—has fostered division, eroded cultural identity, and prioritized expediency over justice. In its place, they propose a Dharmic alternative, rooted in India’s ancient civilizational ethos, as a more authentic and sustainable governance model. This article explores this critique through historical evidence, intellectual discourse, and philosophical analysis, while addressing counterarguments to present a compelling case.
+India’s secular-democratic framework, enshrined in its Constitution since 1950, is often celebrated as a triumph of unity in diversity. Yet, beneath this veneer lies a growing critique: that the system, far from being neutral, systematically suppresses Hindu interests to sustain a fragile political equilibrium. Critics argue that this model—imported from the West and hastily adapted to India’s pluralistic society—has fostered division, eroded cultural identity, and prioritized expediency over justice. In its place, they propose a Dharmic alternative, rooted in India’s ancient civilizational ethos, as a more authentic and sustainable governance model.
 
 ---
 
@@ -25,10 +25,10 @@ India’s secular-democratic framework, enshrined in its Constitution since 1950
 
 India’s democracy, modeled on Western parliamentary systems, hinges on representation and individual rights. However, in practice, it has devolved into a game of vote-bank politics, where parties vie for power by appeasing minority groups, often at the expense of the Hindu majority. This has created a paradox: a system meant to ensure equality has instead entrenched inequality, with the majority’s cultural and political agency diluted.
 
-- <u>**Vote Banks and Appeasement**</u>: The Congress Party’s post-independence strategy of cultivating Muslim and other minority vote banks set a precedent for identity-based politics. For instance, the 1986 Muslim Women (Protection of Rights on Divorce) Act, which overturned a Supreme Court ruling to appease conservative Muslim leaders, exemplifies how secularism bends to political pressure (*en.wikipedia.org/wiki/Shah_Bano_case*).
+- <u>**Vote Banks and Appeasement**</u>: The Congress Party’s post-independence strategy of cultivating Muslim and other minority vote banks set a precedent for identity-based politics. For instance, the 1986 Muslim Women (Protection of Rights on Divorce) Act, which overturned a Supreme Court ruling to appease conservative Muslim leaders, exemplifies how secularism bends to political pressure.
 - <u>**Diffusion of Accountability**</u>: Unlike monarchies or traditional systems where rulers bore direct responsibility, India’s bureaucracy and judiciary diffuse accountability across faceless institutions. This allows the state to deflect blame while maintaining control over narratives, often portraying Hindus as the aggressors in communal conflicts.
 
-Sita Ram Goel, a leading Hindu nationalist thinker, captured this sentiment: “Secularism in its present Indian form is no more than an embodiment of anti-Hindu animus” (*en.wikiquote.org*). Arun Shourie, a former journalist and BJP minister, echoed this, arguing that secularism has been “prostituted to serve electoral ends” (*dnaindia.com*). The result is a democracy that thrives on keeping Hindus fragmented and pacified, slowly eroding their civilizational heritage.
+Sita Ram Goel, a leading Hindu nationalist thinker, captured this sentiment: “Secularism in its present Indian form is no more than an embodiment of anti-Hindu animus”. Arun Shourie, a former journalist and BJP minister, echoed this, arguing that secularism has been “prostituted to serve electoral ends”. The result is a democracy that thrives on keeping Hindus fragmented and pacified, slowly eroding their civilizational heritage.
 
 ---
 
@@ -44,7 +44,7 @@ The critique gains traction when viewed through the lens of history. The Indian 
 ### <u>B. The 2002 Godhra-Gujarat Riots: Erasing the Spark</u>
 - <u>**Context**</u>: On February 27, 2002, a train carrying Hindu pilgrims was torched in Godhra, killing 59 people. The subsequent Gujarat riots claimed 1,044 lives—790 Muslims and 254 Hindus.
 - <u>**State Response**</u>: The initial inquiry by the Union government labeled the fire accidental, contradicting the Nanavati Commission’s finding of a premeditated attack by a Muslim mob. The secular establishment seized on the riots to vilify Hindus, sidelining the train burning as the trigger.
-- <u>**Judicial Outcome**</u>: Narendra Modi, then Gujarat’s Chief Minister, faced relentless scrutiny, yet the Supreme Court cleared him in 2012 (*indiatoday.in*). Meanwhile, the initial provocation faded from public discourse, cementing a one-sided narrative.
+- <u>**Judicial Outcome**</u>: Narendra Modi, then Gujarat’s Chief Minister, faced relentless scrutiny, yet the Supreme Court cleared him in 2012. Meanwhile, the initial provocation faded from public discourse, cementing a one-sided narrative.
 
 ### <u>C. The 2007 Samjhauta Express Bombing: Judicial Absolution</u>
 - <u>**Context**</u>: On February 18, 2007, bombs exploded on the Samjhauta Express, killing 68 people, mostly Muslims. Initial suspicion fell on Islamist groups like Lashkar-e-Taiba, but the NIA later charged four Hindu activists, including Swami Aseemanand.
