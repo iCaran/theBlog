@@ -7,6 +7,7 @@ tags: [
     "India", "History"
 ]
 draft: "false"
+coverImg: "cover.jpeg"
 ---
 
 {{< callout Sq_blank>}}
@@ -17,6 +18,8 @@ There's something peculiar about Indian history that most people don't realizeâ€
 This wasn't due to inability to write, but possibly a conscious philosophical choice. Indians may have recognized that political history often becomes weaponized propaganda, choosing instead to preserve knowledge, wisdom, and social systems that could sustain civilization across millennia. The Brahmi script (parent of all Indian languages) was only deciphered in the 1800s, meaning much ancient Indian history was unknown until recently.
 
 {{< /callout >}}
+
+![Image](cover.jpeg)
 
 ## <u>The Missing Chronicles</u>
 
