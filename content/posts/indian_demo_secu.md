@@ -2,7 +2,7 @@
 author: "Divyanshu Kumar | Karan Pratap Shaw"
 title: "Democracy and Secularism in India | Is it time to Change? Or was it Always Broken..."
 date: "2025-07-14"
-description: "A piercing critique of India's secular democracy, exposing its suppression of Hindu interests and advocating for a Dharmic governance model rooted in ancient wisdom."
+description: "A critique of India's secular democracy, its suppression of Hindu interests and advocating for a Dharmic governance model rooted in ancient wisdom."
 tags: [
     "Democracy", "India", "Secularism", "Hinduism"
 ]
