@@ -7,12 +7,15 @@ tags: [
     "Politics", "India", "World"
 ]
 draft: "false"
+coverImg: "cover.jpeg"
 ---
 
 {{< callout Sq_blank>}}
 ## <u>TLDR - Summary:</u>
 Society could improve by encouraging honest self-interest rather than unrealistic ideals of universal morality. Many genuinely follow altruistic values, often at their own expense, while others openly prioritize their interests—leading to frustration and betrayal. When everyone is upfront about their goals, interactions could become more transparent and mutually beneficial. Cohesive minority groups already thrive by openly advocating for their own interests, while the fragmented majority often falls short due to misplaced guilt-driven values. Embracing pragmatic self-interest could create a more functional, realistic society.
 {{< /callout >}}
+
+![Image](cover.jpeg)
 
 ## <u>Introduction</u>
 

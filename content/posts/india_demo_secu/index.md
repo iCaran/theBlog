@@ -7,6 +7,7 @@ tags: [
     "Democracy", "India", "Secularism", "Hinduism"
 ]
 draft: "false"
+coverImg: "cover.jpeg"
 ---
 
 {{< callout Sq_blank>}}
@@ -14,6 +15,8 @@ draft: "false"
 India's secular democracy is critiqued for suppressing Hindu interests and fostering division, with historical evidence and intellectual arguments supporting a shift to a Dharmic governance model that prioritizes duty, justice, and cultural continuity while addressing concerns about majoritarianism.
 
 {{< /callout >}}
+
+![Image](cover.jpeg)
 
 ## <u>The Mirage of Secular Democracy in India: A Case for a Dharmic Renaissance</u>
 

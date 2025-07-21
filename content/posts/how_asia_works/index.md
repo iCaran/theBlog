@@ -7,6 +7,7 @@ tags: [
     "Economics", "India", "World"
 ]
 draft: "false"
+coverImg: "cover.jpeg"
 ---
 
 {{< callout Sq_blank>}}
@@ -19,6 +20,8 @@ draft: "false"
 * **Takeaway:** Without a gradual, cluster-focused manufacturing push—backed by infrastructure, skills, and tailored industrial policy—India risks missing the proven path to widespread prosperity.
 
 {{< /callout >}}
+
+![Image](cover.jpeg)
 
 ## <u>Introduction</u>
 

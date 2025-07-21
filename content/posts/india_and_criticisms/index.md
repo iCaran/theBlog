@@ -7,6 +7,7 @@ tags: [
     "India", "Internet"
 ]
 draft: "false"
+coverImg: "cover.jpeg"
 ---
 
 {{< callout Sq_blank>}}
@@ -15,6 +16,8 @@ draft: "false"
 This article explores how India's self-image and global perception are heavily influenced by both internal critics and Western media narratives. Unlike other Asian nations that maintain more control over their narratives, India's widespread use of English and vocal internal critics often leads to disproportionate amplification of its problems on the global stage. While acknowledging issues is important, the constant negative self-criticism by some Indians seeking Western validation, combined with biased Western media coverage, creates a skewed perception that undermines national confidence. The solution isn't blind nationalism, but rather a balanced approach that celebrates achievements while pragmatically addressing challenges - similar to how countries like China and Japan maintain cultural confidence while dealing with their own issues. The key is developing a healthy self-image that neither ignores problems nor dismisses progress.
 
 {{< /callout >}}
+
+![Image](cover.jpeg)
 
 ## <u>Introduction</u>
 

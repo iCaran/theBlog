@@ -7,6 +7,7 @@ tags: [
     "Philosophy"
 ]
 draft: "false"
+coverImg: "cover.jpeg"
 ---
 
 {{< callout Sq_blank>}}
@@ -17,6 +18,8 @@ draft: "false"
 * Living a philosophy reshapes perception through practice rather than logical debate—test guiding rules, journal results, and refine based on where they break.
 
 {{< /callout >}}
+
+![Image](cover.jpeg)
 
 ## <u>Philosophy as Frameworks for Sense-Making</u>
 

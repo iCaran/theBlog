@@ -7,6 +7,7 @@ tags: [
     "Modern Slavery", "India", "Indian Rail"
 ]
 draft: "false"
+coverImg: "cover.jpeg"
 ---
 
 {{< callout Sq_blank>}}
@@ -17,6 +18,10 @@ Conclusion
 
 The story concludes without a resolution, as I disembark at Bhubaneswar (BBS) and don't learn the fate of the woman or whether the TTE's suspicions were confirmed. The post and the story however, highlights the vulnerabilities of migrant workers and the systemic issues that facilitate human trafficking.
 {{< /callout >}}
+
+---
+
+![Image](cover.jpeg)
 
 ---
 
@@ -108,7 +113,7 @@ The TTE returned, adamant, and explained he has to specially check the senior ci
 
 It is a problem in Bengal, as I cite a recent report: “WB loses 3 million informal jobs in the last 7 years,” the highest of any state. It is generally the poor, the economically backward classes who do unskilled informal jobs, which the educated classes of society would rather avoid with the help of education and *formal* jobs.
 
-![newspaper section about bengal informal job decline](https://vicharamanjari.onrender.com/images/1000010126.png)
+![newspaper section about bengal informal job decline](img.png)
 
 Much like how educated youth flock to big metropolitan cities such as Bangalore, Chennai, Pune, Delhi, Gurugram, Hyderabad, and Ahmedabad after graduating, uneducated youths also move to these cities to look for informal jobs.
 

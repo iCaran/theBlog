@@ -7,6 +7,7 @@ tags: [
     "Education", "India", "College", "School"
 ]
 draft: "false"
+coverImg: "cover.jpeg"
 ---
 
 {{< callout Sq_blank>}}
@@ -15,6 +16,8 @@ draft: "false"
 Deep understanding isn’t always the best study strategy—especially when you have massive, structured, or dull material to tackle (like exam prep). Instead, using smart memorization techniques and repetitive practice can help you quickly grasp key facts and patterns, saving time and mental energy. Think of it like the Fabian strategy in military history: avoid exhaustive, head-on battles (deep diving into every detail) in favor of a more efficient, balanced approach that starts with memorization and later deepens understanding.
 
 {{< /callout >}}
+
+![Image](cover.jpeg)
 
 ## <u>Introduction</u>
 

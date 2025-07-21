@@ -7,6 +7,7 @@ tags: [
     "Education", "India", "Nepal", "College", "School"
 ]
 draft: "false"
+coverImg: "cover.jpeg"
 ---
 
 {{< callout Sq_blank>}}
@@ -19,6 +20,8 @@ draft: "false"
 - **Accountability Measures:** Suggests strict sanctions—including temporary de-affiliation and admission suspensions—for institutions that neglect continuous monitoring and student safety.
 
 {{< /callout >}}
+
+![Image](cover.jpeg)
 
 ## <u>Introduction</u>
 
