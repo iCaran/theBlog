@@ -71,5 +71,12 @@
       <guid>http://localhost:1313/posts/cgpa/</guid>
       <description>A Balance between Skills and Scores</description>
     </item>
+    <item>
+      <title>A Short Note on CGPA | AKA | How To Approach College in India</title>
+      <link>http://localhost:1313/posts/it_market/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/it_market/</guid>
+      <description>A Balance between Skills and Scores</description>
+    </item>
   </channel>
 </rss>
