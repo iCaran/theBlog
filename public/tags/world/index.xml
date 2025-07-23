@@ -6,8 +6,15 @@
     <description>Recent content in World on विचारमञ्जरी (Vichāramañjarī)</description>
     <generator>Hugo -- 0.123.7</generator>
     <language>en-in</language>
-    <lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/world/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Great Outsourcing Shift | How Federal Reserve Policy is Reshaping Global Tech Markets</title>
+      <link>http://localhost:1313/posts/it_market/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/it_market/</guid>
+      <description>Analyzing the shift of IT outsourcing from India to Southeast Asia. Also what even is money exactly?</description>
+    </item>
     <item>
       <title>The Manufacturing Imperative | Why India&#39;s Development Path Diverges from East Asian Success</title>
       <link>http://localhost:1313/posts/how_asia_works/</link>
@@ -21,6 +28,13 @@
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/new_approach_to_politics/</guid>
       <description>Isn&#39;t Honesty the Best Policy?</description>
+    </item>
+    <item>
+      <title>We&#39;ve sadly forgotten what we knew, Even though that&#39;s what has made us</title>
+      <link>http://localhost:1313/posts/ancient_wisdom/</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ancient_wisdom/</guid>
+      <description>Sooner or Later, we&#39;ll be back to the truth we strayed from, staring right at us.</description>
     </item>
   </channel>
 </rss>

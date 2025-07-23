@@ -6,8 +6,15 @@
     <description>Recent content in India on विचारमञ्जरी (Vichāramañjarī)</description>
     <generator>Hugo -- 0.123.7</generator>
     <language>en-in</language>
-    <lastBuildDate>Mon, 21 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/india/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Great Outsourcing Shift | How Federal Reserve Policy is Reshaping Global Tech Markets</title>
+      <link>http://localhost:1313/posts/it_market/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/it_market/</guid>
+      <description>Analyzing the shift of IT outsourcing from India to Southeast Asia. Also what even is money exactly?</description>
+    </item>
     <item>
       <title>The Great Historical Gap | Why Ancient India Never Bothered Writing Its Own Story</title>
       <link>http://localhost:1313/posts/history_mystery/</link>
@@ -69,13 +76,6 @@
       <link>http://localhost:1313/posts/cgpa/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/cgpa/</guid>
-      <description>A Balance between Skills and Scores</description>
-    </item>
-    <item>
-      <title>A Short Note on CGPA | AKA | How To Approach College in India</title>
-      <link>http://localhost:1313/posts/it_market/</link>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/it_market/</guid>
       <description>A Balance between Skills and Scores</description>
     </item>
   </channel>
