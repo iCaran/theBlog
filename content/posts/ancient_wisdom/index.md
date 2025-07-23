@@ -1,6 +1,6 @@
 ---
 author: "Divyanshu Kumar | Karan Pratap Shaw"
-title: "From Sand to Skyscrapers | How Ancient Civilizations Built the Blueprint for Modern Progress"
+title: "Full Circle of Ideas | The Blueprint of Modern Progress built by Ancient Civilizations"
 date: "2025-07-23"
 description: "Sooner or Later, we'll be back to the truth we strayed from, staring right at us."
 tags: [
