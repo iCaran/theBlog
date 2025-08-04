@@ -10,6 +10,35 @@ draft: "false"
 coverImg: "cover.jpeg"
 ---
 
+{{< callout Sq_blank>}}
+## <u>TLDR - Summary:</u>
+
+**The Fundamental Thesis:** India's celebrated "founding fathers" were documented enemies of Hindu civilisation who systematically dismantled millennia-old cultural, legal, and spiritual foundations under the guise of modernisation and secularism.
+
+**Key Culprits Exposed:**
+- **Nehru**: Self-proclaimed agnostic who declared he "cannot speak for Hindus" while governing them; architected Hindu Code Bills that legally demolished traditional Hindu society
+- **Gandhi**: Created fraudulent "Sarva Dharma Sama Bhava" concept that imposed Islamic theological framework on Hindu thought; weaponised reform rhetoric to implant civilisational guilt
+- **Ambedkar**: Openly called Vedas "worthless," burned Manusmriti, advocated complete destruction of Hindu religious authority, and embedded anti-Hindu principles in the Constitution
+
+**The Evidence:**
+- Legislative warfare through Hindu Code Bills (1955-58) that uniquely targeted Hindu personal law while exempting minorities
+- Constitutional discrimination via Article 30 and selective state intervention in Hindu institutions
+- Systematic marginalisation of authentic Hindu voices like Tilak, Savarkar, and cultural nationalists
+- Regional pattern of anti-Hindu policies across South Asia proving coordinated civilisational assault
+
+**The Consequences:**
+- Perverted secularism that privileges minorities while discriminating against Hindu majority in their own homeland
+- Demographic transformation through uncontrolled illegal immigration and conversion activities
+- Moral vacuum and spiritual emptiness as Hindu civilisational consciousness was systematically severed from national identity
+- Contemporary India: a nation ashamed of its own heritage, producing self-hating elites
+
+**The Verdict:** Independence was civilisational defeat. We chose executioners as founding fathers, destroyers as builders, and enemies as liberators. The price: a soulless society divorced from five millennia of dharmic wisdom.
+
+**The Call:** Intellectual decolonisation, constitutional reform recognising Hindu civilisational identity, and cultural renaissance rooted in authentic dharmic consciousness. The founding fathers built their republic on Hindu civilisation's grave—time to build a true nation on civilisational truth.
+{{< /callout >}}
+
+![Image](cover.jpeg)
+
 ## <u>Introduction: The Magnitude of Historical Deception</u>
 
 For seventy-seven years, the Republic of India has genuflected before the altar of a carefully constructed mythology—one that celebrates as "founding fathers" the very men who orchestrated the systematic dismantling of a five-thousand-year-old civilisation. This article presents an unflinching examination of documented evidence that reveals a truth so damning it has been deliberately obscured by successive generations of court historians: **India's independence was not liberation but conquest by proxy—a conquest achieved not by foreign invaders but by indigenous collaborators who wielded the rhetoric of freedom to deliver the final death blow to Sanātana Dharma.**
@@ -38,7 +67,7 @@ Gandhi's concept of **"Sarva Dharma Sama Bhava"** (equal respect for all religio
 
 - He consistently opposed the natural aspirations of Hindu society for cultural restoration
 - His "Harijan" campaign, while appearing reformist, actually legitimised external interference in Hindu social structures
-- His fasting threats were weaponised against Hindu interests, most notably to prevent separate electorates for Dalits who might have developed independent political consciousness
+- His fasting threats were inconsistently applied - while he prevented separate electorates for Dalits (which ironically helped maintain Hindu unity), he failed to use similar pressure against Muslim League's separatist demands
 - His philosophy of non-violence was selectively applied to disarm Hindu resistance while remaining silent about Islamic aggression
 
 Gandhi's true legacy is not independence but the successful implantation of a guilt complex that would paralyse Hindu civilisational confidence for generations.
