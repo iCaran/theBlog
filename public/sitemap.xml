@@ -55,6 +55,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/our_founding_fathers/</loc>
+    <lastmod>2025-07-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/tags/college/</loc>
     <lastmod>2025-07-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
