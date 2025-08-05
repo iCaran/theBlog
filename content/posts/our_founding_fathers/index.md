@@ -37,6 +37,10 @@ coverImg: "cover.jpeg"
 **The Call:** Intellectual decolonisation, constitutional reform recognising Hindu civilisational identity, and cultural renaissance rooted in authentic dharmic consciousness. The founding fathers built their republic on Hindu civilisation's grave—time to build a true nation on civilisational truth.
 {{< /callout >}}
 
+***For a longer list of some of our most influential founding fathers, with their thoughts and actions for/against hinduism, refer to - [A list of the thoughts and actions of some our most influential Founding Fathers](https://vicharamanjari.onrender.com/posts/all_founding_fathers/)***
+
+***For a list of actions against the Hindu Society in entire Indian subcontinent, refer to - [The Death of The Indian Subcontinent](https://vicharamanjari.onrender.com/posts/subcontinent)***
+
 ![Image](cover.jpeg)
 
 ## <u>Introduction: The Magnitude of Historical Deception</u>
