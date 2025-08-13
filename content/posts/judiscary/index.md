@@ -98,7 +98,7 @@ The Supreme Court's questioning of Uttar Pradesh's "tearing hurry" in temple tak
 
 ### <u>The Shah Bano Paradox</u>
 
-The 1985 Shah Bano case illuminates the judiciary's differential approach to religious communities. When the Supreme Court applied secular maintenance laws to Muslim personal law, the decision was legislatively overturned within months. The Muslim Women (Protection of Rights on Divorce) Act, 1986, effectively nullified the judgment, demonstrating the political system's responsiveness to minority religious concerns.
+The 1985 Shah Bano case illuminates the judiciary's differential approach to religious communities. When the Supreme Court applied secular maintenance laws to Muslim personal law, the decision was legislatively nullified within months thanks to the ruling Congress Governmentturning stepping in to pass a law overturning the SC's judgement. The Muslim Women (Protection of Rights on Divorce) Act, 1986, introduced by the Rajiv Gandi Govt., effectively nullified the judgment, demonstrating the political system's responsiveness to minority religious concerns.
 
 Contrast this with Hindu religious practices. When courts intervene in Hindu religious matters—whether temple management, festival celebrations, or worship practices—no comparable legislative protection materializes. Hindu religious autonomy lacks the political protection accorded to minority faiths.
 
