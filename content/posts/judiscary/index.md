@@ -33,6 +33,10 @@ The evidence is overwhelming, the pattern undeniable, the urgency absolute. Indi
 
 {{< /callout >}}
 
+---
+***Read the Supportive Article here - [Some notable examples of Blatant Bias](https://vicharamanjari.onrender.com/posts/judi_scary/)***
+---
+
 ![Image](cover.jpeg)
 
 ## <u>I. Introduction: The Foundational Question</u>
