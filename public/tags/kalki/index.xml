@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kalki on विचारमञ्जरी (Vichāramañjarī)</title>
+    <link>http://localhost:1313/tags/kalki/</link>
+    <description>Recent content in Kalki on विचारमञ्जरी (Vichāramañjarī)</description>
+    <generator>Hugo -- 0.123.7</generator>
+    <language>en-in</language>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kalki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Kalki Paradox | Divine Intervention and the Pattern of Hindu Resistance</title>
+      <link>http://localhost:1313/posts/kalki/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/kalki/</guid>
+      <description>An exploration of why every Hindu revolutionary movement has failed, and what this reveals about the nature of divine intervention in human affairs</description>
+    </item>
+  </channel>
+</rss>
