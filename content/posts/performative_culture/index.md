@@ -29,7 +29,7 @@ When American infrastructure needs improvement, politicians cite Reagan's observ
 
 This symbolic politics pervades all sides. While the American left sometimes falls into this trap—speaking of "xyz rights" and "freedom to abc" as abstract principles detached from material reality—in India, everyone does it. The entire political spectrum operates at one remove from reality, speaking in symbols rather than substance.
 
-This performative tendency manifests in curious ways. Indian politicians, across all parties, maintain their traditional attire—kurtas, dhotis, Gandhi topis—as visible markers of cultural authenticity. Yet this sartorial traditionalism masks a complete hollowing out of the cultural core. The population they represent desperately mimics Western culture in every meaningful dimension while the leaders perform tradition through clothing. The form is maintained, the substance abandoned. It's performance all the way down.
+This performative tendency manifests in curious ways. Indian politicians, across all parties, maintain their traditional attire—kurtas, dhotis, Gandhi topis—as visible markers of cultural authenticity. Yet these same politicians who dress traditionally aspire to Western values, Western lifestyles, Western validation in every meaningful dimension. The clothing is a costume, worn for the public while the wearer dreams of being elsewhere. The population does the same—everyone wants to become American while performing Indianness. The form is maintained, the substance abandoned. It's performance all the way down.
 
 ## <u>The Language Problem</u>
 
