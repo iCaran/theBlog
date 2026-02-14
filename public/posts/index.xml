@@ -9,6 +9,13 @@
     <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Beyond Discourse | Why Talk Without Action Is the Death of Movements</title>
+      <link>http://localhost:1313/posts/beyond_discourse/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beyond_discourse/</guid>
+      <description>There&#39;s a predictable pattern in how social and cultural movements evolve.</description>
+    </item>
+    <item>
       <title>Beyond Manipulation | Why Identity Politics Reflects Real Interests</title>
       <link>http://localhost:1313/posts/beyond_manipulation/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
@@ -23,6 +30,20 @@
       <description>why does China find itself surrounded by hostile neighbors while America dominates its hemisphere?</description>
     </item>
     <item>
+      <title>Forces of Good | A Meditation on Power, Virtue, and the Will to Victory</title>
+      <link>http://localhost:1313/posts/forces-of-good/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/forces-of-good/</guid>
+      <description>&#39;Beta, jeevan me accha admi banna...&#39;</description>
+    </item>
+    <item>
+      <title>The Economics of Vegetarianism</title>
+      <link>http://localhost:1313/posts/vegetarianism-and-wealth/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vegetarianism-and-wealth/</guid>
+      <description>Vegetarianism has historically been the domain of the wealthy.</description>
+    </item>
+    <item>
       <title>The Impossibility of Truth in Equal Systems | Why Dharma Must Stand Above Consensus</title>
       <link>http://localhost:1313/posts/dharma_above_consensus/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
@@ -35,6 +56,20 @@
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/geopolitical_power/</guid>
       <description>The ability to set the standards by which everyone else is judged.</description>
+    </item>
+    <item>
+      <title>The Machinery of Identity | Why Some Groups Organize Better Than Others</title>
+      <link>http://localhost:1313/posts/identity-mobilization/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/identity-mobilization/</guid>
+      <description>Hindus are &#39;naturally selfish,&#39; the argument goes...</description>
+    </item>
+    <item>
+      <title>The Steel Frame That Never Bent | How Colonial Bureaucracy Became India&#39;s Permanent Bottleneck</title>
+      <link>http://localhost:1313/posts/upsc/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/upsc/</guid>
+      <description>A bureaucratic system that was never designed for strategic thinking in the first place.</description>
     </item>
     <item>
       <title>Varna| The Natural Order We Refuse to Acknowledge</title>
@@ -224,13 +259,6 @@
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/cgpa/</guid>
       <description>A Balance between Skills and Scores</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/beyond_discourse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/beyond_discourse/</guid>
-      <description>Beyond Discourse: Why Talk Without Action Is the Death of Movements There’s a predictable pattern in how social and cultural movements evolve. They begin with conversation—small groups gathering to discuss ideas, share grievances, and articulate visions. This phase is necessary. It’s where consciousness forms, where people realize they’re not alone in their concerns. But here’s the problem: most movements get stuck here. They mistake the beginning for the destination.</description>
     </item>
   </channel>
 </rss>
