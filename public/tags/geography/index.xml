@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/posts/china_problem/</guid>
       <description>why does China find itself surrounded by hostile neighbors while America dominates its hemisphere?</description>
     </item>
+    <item>
+      <title>The Invisible Architecture of American Power</title>
+      <link>http://localhost:1313/posts/geopolitical_power/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/geopolitical_power/</guid>
+      <description>The ability to set the standards by which everyone else is judged.</description>
+    </item>
   </channel>
 </rss>

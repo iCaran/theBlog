@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Consensus on विचारमञ्जरी (Vichāramañjarī)</title>
+    <link>http://localhost:1313/tags/consensus/</link>
+    <description>Recent content in Consensus on विचारमञ्जरी (Vichāramañjarī)</description>
+    <generator>Hugo -- 0.123.7</generator>
+    <language>en-in</language>
+    <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/consensus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond Manipulation | Why Identity Politics Reflects Real Interests</title>
+      <link>http://localhost:1313/posts/beyond_manipulation/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beyond_manipulation/</guid>
+      <description>People aren&#39;t Stupid.</description>
+    </item>
+    <item>
+      <title>The Impossibility of Truth in Equal Systems | Why Dharma Must Stand Above Consensus</title>
+      <link>http://localhost:1313/posts/dharma_above_consensus/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dharma_above_consensus/</guid>
+      <description>Why did philosophy emerge at all?</description>
+    </item>
+  </channel>
+</rss>

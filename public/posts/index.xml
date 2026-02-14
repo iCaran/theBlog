@@ -9,11 +9,32 @@
     <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Beyond Manipulation | Why Identity Politics Reflects Real Interests</title>
+      <link>http://localhost:1313/posts/beyond_manipulation/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beyond_manipulation/</guid>
+      <description>People aren&#39;t Stupid.</description>
+    </item>
+    <item>
       <title>China&#39;s Strategic Blind Spot | Why Geography Still Matters</title>
       <link>http://localhost:1313/posts/china_problem/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/china_problem/</guid>
       <description>why does China find itself surrounded by hostile neighbors while America dominates its hemisphere?</description>
+    </item>
+    <item>
+      <title>The Impossibility of Truth in Equal Systems | Why Dharma Must Stand Above Consensus</title>
+      <link>http://localhost:1313/posts/dharma_above_consensus/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dharma_above_consensus/</guid>
+      <description>Why did philosophy emerge at all?</description>
+    </item>
+    <item>
+      <title>The Invisible Architecture of American Power</title>
+      <link>http://localhost:1313/posts/geopolitical_power/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/geopolitical_power/</guid>
+      <description>The ability to set the standards by which everyone else is judged.</description>
     </item>
     <item>
       <title>Varna| The Natural Order We Refuse to Acknowledge</title>
@@ -206,10 +227,10 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/geopolitical_power/</link>
+      <link>http://localhost:1313/posts/beyond_discourse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/geopolitical_power/</guid>
-      <description></description>
+      <guid>http://localhost:1313/posts/beyond_discourse/</guid>
+      <description>Beyond Discourse: Why Talk Without Action Is the Death of Movements There’s a predictable pattern in how social and cultural movements evolve. They begin with conversation—small groups gathering to discuss ideas, share grievances, and articulate visions. This phase is necessary. It’s where consciousness forms, where people realize they’re not alone in their concerns. But here’s the problem: most movements get stuck here. They mistake the beginning for the destination.</description>
     </item>
   </channel>
 </rss>

@@ -9,11 +9,32 @@
     <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Beyond Discourse | Why Talk Without Action Is the Death of Movements</title>
+      <link>http://localhost:1313/posts/beyond_discourse/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beyond_discourse/</guid>
+      <description>There&#39;s a predictable pattern in how social and cultural movements evolve.</description>
+    </item>
+    <item>
+      <title>Beyond Manipulation | Why Identity Politics Reflects Real Interests</title>
+      <link>http://localhost:1313/posts/beyond_manipulation/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/beyond_manipulation/</guid>
+      <description>People aren&#39;t Stupid.</description>
+    </item>
+    <item>
       <title>China&#39;s Strategic Blind Spot | Why Geography Still Matters</title>
       <link>http://localhost:1313/posts/china_problem/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/china_problem/</guid>
       <description>why does China find itself surrounded by hostile neighbors while America dominates its hemisphere?</description>
+    </item>
+    <item>
+      <title>The Impossibility of Truth in Equal Systems | Why Dharma Must Stand Above Consensus</title>
+      <link>http://localhost:1313/posts/dharma_above_consensus/</link>
+      <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/dharma_above_consensus/</guid>
+      <description>Why did philosophy emerge at all?</description>
     </item>
     <item>
       <title>The Invisible Architecture of American Power</title>
