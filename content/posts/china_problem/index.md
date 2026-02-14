@@ -1,7 +1,7 @@
 ---
 author: "Divyanshu Kumar | Karan Pratap Shaw"
 title: "China's Strategic Blind Spot | Why Geography Still Matters"
-date: "2025-12-08"
+date: "2026-02-14"
 description: "why does China find itself surrounded by hostile neighbors while America dominates its hemisphere?"
 tags: [
     "China", "Geography", "Tarrifs"

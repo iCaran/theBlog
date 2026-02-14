@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>China on विचारमञ्जरी (Vichāramañjarī)</title>
-    <link>http://localhost:1313/tags/china/</link>
-    <description>Recent content in China on विचारमञ्जरी (Vichāramañjarī)</description>
+    <title>USA on विचारमञ्जरी (Vichāramañjarī)</title>
+    <link>http://localhost:1313/tags/usa/</link>
+    <description>Recent content in USA on विचारमञ्जरी (Vichāramañjarī)</description>
     <generator>Hugo -- 0.123.7</generator>
     <language>en-in</language>
     <lastBuildDate>Sat, 14 Feb 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/china/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/usa/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>China&#39;s Strategic Blind Spot | Why Geography Still Matters</title>
-      <link>http://localhost:1313/posts/china_problem/</link>
+      <title>The Invisible Architecture of American Power</title>
+      <link>http://localhost:1313/posts/geopolitical_power/</link>
       <pubDate>Sat, 14 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/china_problem/</guid>
+      <guid>http://localhost:1313/posts/geopolitical_power/</guid>
       <description>why does China find itself surrounded by hostile neighbors while America dominates its hemisphere?</description>
     </item>
   </channel>
