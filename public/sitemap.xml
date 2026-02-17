@@ -2,7 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/hinduism/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/india/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/philosophy/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/uniformity_trap/</loc>
+    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -49,6 +85,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/tags/food/</loc>
+    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/forces-of-good/</loc>
     <lastmod>2026-02-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -61,19 +103,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/philosophy/</loc>
-    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/politics/</loc>
-    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-02-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -85,13 +115,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/tarrifs/</loc>
     <lastmod>2026-02-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/tarrifs/</loc>
+    <loc>http://localhost:1313/posts/vegetarianism-and-wealth/</loc>
     <lastmod>2026-02-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -109,20 +139,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/usa/</loc>
+    <loc>http://localhost:1313/posts/identity-mobilization/</loc>
     <lastmod>2026-02-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/hinduism/</loc>
-    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/upsc/</loc>
+    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/india/</loc>
-    <lastmod>2025-12-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/usa/</loc>
+    <lastmod>2026-02-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -441,21 +471,6 @@
   <url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-08-02T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/identity-mobilization/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/upsc/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/vegetarianism-and-wealth/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
