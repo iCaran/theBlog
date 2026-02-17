@@ -1,6 +1,6 @@
 ---
 author: "Divyanshu Kumar | Karan Pratap Shaw"
-title: "The Uniformity Trap | Why Every Attempt to Fix Hindu Society Is Making It Worse"
+title: "The Uniformity Trap | Why Every Attempt to Fix Society Is Making It Worse"
 date: "2026-02-17"
 description: "Uniformity is the dumbest idea humans have ever come up with."
 tags: [
