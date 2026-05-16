@@ -6,13 +6,20 @@
     <description>Recent content in Tags on विचारमञ्जरी (Vichāramañjarī)</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-in</language>
-    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Democracy</title>
-      <link>http://localhost:1313/tags/democracy/</link>
+      <title>Caste</title>
+      <link>http://localhost:1313/tags/caste/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/democracy/</guid>
+      <guid>http://localhost:1313/tags/caste/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Civilisation</title>
+      <link>http://localhost:1313/tags/civilisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/civilisation/</guid>
       <description></description>
     </item>
     <item>
@@ -23,10 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>India</title>
-      <link>http://localhost:1313/tags/india/</link>
+      <title>Meritocracy</title>
+      <link>http://localhost:1313/tags/meritocracy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/india/</guid>
+      <guid>http://localhost:1313/tags/meritocracy/</guid>
       <description></description>
     </item>
     <item>
@@ -34,6 +41,34 @@
       <link>http://localhost:1313/tags/philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reservations</title>
+      <link>http://localhost:1313/tags/reservations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reservations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Society</title>
+      <link>http://localhost:1313/tags/society/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/society/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Democracy</title>
+      <link>http://localhost:1313/tags/democracy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/democracy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>India</title>
+      <link>http://localhost:1313/tags/india/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/india/</guid>
       <description></description>
     </item>
     <item>
@@ -97,13 +132,6 @@
       <link>http://localhost:1313/tags/usa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/usa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Society</title>
-      <link>http://localhost:1313/tags/society/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/society/</guid>
       <description></description>
     </item>
     <item>

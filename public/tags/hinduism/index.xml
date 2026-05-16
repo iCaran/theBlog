@@ -6,8 +6,22 @@
     <description>Recent content in Hinduism on विचारमञ्जरी (Vichāramañjarī)</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-in</language>
-    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/hinduism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Guild That Never Left</title>
+      <link>http://localhost:1313/posts/guild/</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/guild/</guid>
+      <description>why does it persist, and what have we actually replaced it with?</description>
+    </item>
+    <item>
+      <title>Orphans of a Civilization</title>
+      <link>http://localhost:1313/posts/orphans/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/orphans/</guid>
+      <description>The question is not whether a new center of gravity will emerge. It is whether it emerges before the blank slates fill up with something else.</description>
+    </item>
     <item>
       <title>The Oldest Theory of Everything</title>
       <link>http://localhost:1313/posts/grand_theory/</link>
