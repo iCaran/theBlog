@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Individual on विचारमञ्जरी (Vichāramañjarī)</title>
+    <link>http://localhost:1313/tags/individual/</link>
+    <description>Recent content in Individual on विचारमञ्जरी (Vichāramañjarī)</description>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en-in</language>
+    <lastBuildDate>Sat, 25 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/individual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Shuddhi, Varna, and the Goal of Becoming Brahman</title>
+      <link>http://localhost:1313/posts/shuddhi/</link>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/shuddhi/</guid>
+      <description>why does it persist, and what have we actually replaced it with?</description>
+    </item>
+  </channel>
+</rss>
