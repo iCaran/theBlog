@@ -20,7 +20,7 @@ The ancient Sanskrit word for the opposite of this process is *shuddhi* — puri
 
 ![Image](cover.png)
 
-## The Soul Before the Occupation
+## <u>The Soul Before the Occupation</u>
 
 *Varna* is almost universally discussed as a social or economic system: a division of labor, a hierarchy of occupations, at worst a mechanism of oppression enforced by birth. What it is almost never discussed as is what it originally was — a taxonomy of *soul-types*.
 
@@ -30,7 +30,7 @@ This is also precisely what the Gita says. In one of its central verses, Krishna
 
 ---
 
-## What the Mahabharata Says About Itself
+## <u>What the Mahabharata Says About Itself</u>
 
 Here is where the story gets philosophically interesting. The Shanti Parva — the longest of the parvas, comprising Bhishma's deathbed discourse to Yudhishthira as he lay on his bed of arrows, delivering everything he knew: philosophy, politics, governance, war, religion — contains within it a remarkable internal debate on the very question of varna.
 
@@ -42,7 +42,7 @@ This is the Mahabharata's own position on itself. Not a reformist revision from 
 
 ---
 
-## The Product of Kaliyug
+## <u>The Product of Kaliyug</u>
 
 The question then is obvious: if this was always the philosophical foundation, where did the rigid, birth-based, hereditary system that actually exists come from?
 
@@ -52,7 +52,7 @@ What we inherited, in other words, is not varna. It is varna's Kaliyug corruptio
 
 ---
 
-## Stratification Is Real; the Brahman Ideal Is Universal
+## <u>Stratification Is Real; the Brahman Ideal Is Universal</u>
 
 This is the tension any honest engagement with these ideas has to hold simultaneously.
 
@@ -64,7 +64,7 @@ From Arjuna down to Sudama. From the warrior to the cowherd, from anyone in any 
 
 ---
 
-## The Goal and Its Inheritance
+## <u>The Goal and Its Inheritance</u>
 
 So what does this leave us with? A practical thesis, actually — and a demanding one.
 
