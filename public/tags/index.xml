@@ -6,8 +6,29 @@
     <description>Recent content in Tags on विचारमञ्जरी (Vichāramañjarī)</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-in</language>
-    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Government</title>
+      <link>http://localhost:1313/tags/government/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/government/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>India</title>
+      <link>http://localhost:1313/tags/india/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/india/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Society</title>
+      <link>http://localhost:1313/tags/society/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/society/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Caste</title>
       <link>http://localhost:1313/tags/caste/</link>
@@ -37,13 +58,6 @@
       <description></description>
     </item>
     <item>
-      <title>India</title>
-      <link>http://localhost:1313/tags/india/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/india/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>IT</title>
       <link>http://localhost:1313/tags/it/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -62,13 +76,6 @@
       <link>http://localhost:1313/tags/reservation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/reservation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Society</title>
-      <link>http://localhost:1313/tags/society/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/society/</guid>
       <description></description>
     </item>
     <item>

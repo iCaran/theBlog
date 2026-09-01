@@ -6,8 +6,22 @@
     <description>Recent content in India on विचारमञ्जरी (Vichāramañjarī)</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-in</language>
-    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/india/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A System That Shouldn&#39;t Work — And Doesn&#39;t</title>
+      <link>http://localhost:1313/posts/broken_system/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/broken_system/</guid>
+      <description>On incentive, accountability, and the politics of public employment</description>
+    </item>
+    <item>
+      <title>Too Many Hands, Too Few Occupations</title>
+      <link>http://localhost:1313/posts/hands/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hands/</guid>
+      <description>On scale, the welfare state, and the long wait for a reformer</description>
+    </item>
     <item>
       <title>Learning Nothing, Losing More</title>
       <link>http://localhost:1313/posts/training/</link>

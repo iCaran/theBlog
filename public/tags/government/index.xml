@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Government on विचारमञ्जरी (Vichāramañjarī)</title>
+    <link>http://localhost:1313/tags/government/</link>
+    <description>Recent content in Government on विचारमञ्जरी (Vichāramañjarī)</description>
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en-in</language>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/government/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A System That Shouldn&#39;t Work — And Doesn&#39;t</title>
+      <link>http://localhost:1313/posts/broken_system/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/broken_system/</guid>
+      <description>On incentive, accountability, and the politics of public employment</description>
+    </item>
+    <item>
+      <title>Too Many Hands, Too Few Occupations</title>
+      <link>http://localhost:1313/posts/hands/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hands/</guid>
+      <description>On scale, the welfare state, and the long wait for a reformer</description>
+    </item>
+  </channel>
+</rss>
