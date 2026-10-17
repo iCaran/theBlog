@@ -6,8 +6,15 @@
     <description>Recent content in Posts on विचारमञ्जरी (Vichāramañjarī)</description>
     <generator>Hugo -- 0.128.0</generator>
     <language>en-in</language>
-    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Vanishing Guru: On Diagnosis, Discipline, and the Price of Real Learning</title>
+      <link>http://localhost:1313/posts/vanishing_guru/</link>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/vanishing_guru/</guid>
+      <description>A teacher&#39;s real task is not to transmit information but to diagnose...</description>
+    </item>
     <item>
       <title>A System That Shouldn&#39;t Work — And Doesn&#39;t</title>
       <link>http://localhost:1313/posts/broken_system/</link>
@@ -350,6 +357,17 @@
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/cgpa/</guid>
       <description>A Balance between Skills and Scores</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/lions_tongue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/lions_tongue/</guid>
+      <description>The Lion’s TongueKarna’s Fourth Reason and the Anatomy of a Self-Made Dharma
+खड्गजिह्व धनुरास्यं शरदंष्ट्रं तरस्विनम् । दृप्तं पुरुषशार्दूलं जहि कर्ण धनंजय ।।
+Karna is a lion among men — his tongue a blade, his open mouth a bow, his teeth like arrows; swift, and proud beyond measure. Strike him down, Arjuna.
+— Mahabharata, Karna Parva
+Popular memory has been kind to Karna in a way the Mahabharata itself never quite is.</description>
     </item>
   </channel>
 </rss>
